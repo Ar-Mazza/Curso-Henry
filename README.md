@@ -1,2 +1,1 @@
-# Curso-Henry
-Este es un repositorio de prueba del modulo 2 del prepcourse de henry
+esta es una prueba de como crear un repositorio bajarlo a mi pc y subirlo
